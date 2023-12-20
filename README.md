@@ -9,7 +9,8 @@ Find free proxy from public web and  check it available
 
 第三步：将IP:PORT 复制到 proxies.txt 文件中
 
-第四步：在 iterm中 执行 *proxytest.sh* 测试通过的IP
+第四步：在 iterm中 执行 *proxytest.sh* 获得测试通过的IP 在 working_proxies.txt 中
 
 第五步: 可用代理IP出来了，就可以直接用咯
 
+*proxytest.sh*  Gen by Edge Copilot.
