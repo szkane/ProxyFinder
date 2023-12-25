@@ -28,5 +28,4 @@ done < "$PROXY_LIST"
 
 # 统计工作代理文件中的行数
 WORKING_COUNT=$(wc -l < "$WORKING_PROXIES")
-
-echo "$WORKING_COUNT working proxies have been saved to $WORKING_PROXIES
+echo -e "\033[0;31m Result: $WORKING_COUNT working proxies have been saved to $WORKING_PROXIES"
